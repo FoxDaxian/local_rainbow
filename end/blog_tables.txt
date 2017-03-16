@@ -1,0 +1,77 @@
+用户信息表
+主键  用户名 账号 密码 邮箱 验证邮箱的code
+create table user_info(
+	id tinyint unsigned  primary key auto_increment,
+	username varchar(20) not null,
+	account varchar(20) not null,
+	password char(32) not null,
+	email varchar(30) not null,
+	email_code char(32) not null,
+	email_active tinyint unsigned default 0 not null
+	);
+
+
+
+记录 登录状态 的表
+账号，存在服务器端的cookie
+create table record_login(
+account varchar(20) not null,
+cookie char(32) not null
+);
+
+
+博客文章
+主键  用户主键（用来关联发博客的用户） 文章标题 发布时间 文章内容  
+create table artical(
+id tinyint unsigned  primary key auto_increment,
+user_id tinyint unsigned not null default 0,
+title varchar(50) not null,
+release_time bigint unsigned not null,
+content longText not null
+);
+
+
+
+
+
+文章被交互表
+#
+#
+#应该是文章一发布，这个表就会多一行该文章的信息，测试情况下，先手动写
+#
+#
+文章的主键   顶  踩  阅读数  （defalut 都为0）
+create table about(
+artical_id smallint unsigned not null default 0,
+up smallint unsigned not null default 0,
+down smallint unsigned not null default 0,
+look smallint unsigned not null default 0
+);
+
+
+
+
+
+文章评论表（要获取评论总数的）
+主键 文章的主键(对哪篇文章进行)  # 评论发起人（这个用户的主键）#  评论时间 几个人赞(在前台操作，改变请求方法进行切换) 父亲的ID（用来判断回复） 评论内容  
+create table comment(
+id tinyint unsigned  primary key auto_increment,
+artical_id tinyint unsigned not null default 0,
+user_id tinyint unsigned not null default 0,
+comment_time bigint unsigned not null,
+stars smallint unsigned not null default 0,
+parent_id tinyint unsigned not null default 0,
+content text not null
+);
+
+
+
+
+
+保存当前用户草稿表
+草稿归属人的ID，草稿标题，草稿内容
+create table draft(
+user_id tinyint unsigned not null default 0,
+title varchar(50) not null,
+content longText not null
+);

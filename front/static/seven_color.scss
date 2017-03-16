@@ -1,0 +1,185 @@
+//span引用动画的重用代码块mixin
+@mixin rd($value: rd1) {
+	&:hover{
+		animation: $value 1s ease-in-out infinite alternate;
+		-webkit-animation: $value 1s ease-in-out infinite alternate;
+	}
+}
+.rd1{@include rd(rd1);}
+.rd2{@include rd(rd2);}
+.rd3{@include rd(rd3);}
+.rd4{@include rd(rd4);}
+.rd5{@include rd(rd5);}
+.rd6{@include rd(rd6);}
+.rd7{@include rd(rd7);}
+
+.bs1{@include rd(bs1);}
+.bs2{@include rd(bs2);}
+.bs3{@include rd(bs3);}
+.bs4{@include rd(bs4);}
+.bs5{@include rd(bs5);}
+.bs6{@include rd(bs6);}
+.bs7{@include rd(bs7);}
+//keyframe的重用代码块mixin
+@mixin rd_ani($value: #FF0000) {
+	from {
+		text-shadow: 0 0 10px #fff,
+		0 0 20px  #fff,
+		0 0 30px  #fff,
+		0 0 40px  $value,
+		0 0 70px  $value,
+		0 0 80px  $value,
+		0 0 100px $value,
+		0 0 150px $value;
+	}
+	to {
+		text-shadow: 0 0 5px #fff,
+		0 0 10px #fff,
+		0 0 15px #fff,
+		0 0 20px $value,
+		0 0 35px $value,
+		0 0 40px $value,
+		0 0 50px $value,
+		0 0 75px $value;
+	}
+}
+
+
+
+@mixin bs_ani($value: #FF0000) {
+	from {
+		box-shadow: 0 0 5px #fff,
+		0 0 8px  #fff,
+		0 0 11px  #fff,
+		0 0 14px  $value,
+		0 0 17px  $value,
+		0 0 20px  $value,
+		0 0 23px $value,
+		0 0 26px $value;
+	}
+	to {
+		box-shadow: 0 0 1px #fff,
+		0 0 4px #fff,
+		0 0 7px #fff,
+		0 0 10px $value,
+		0 0 13px $value,
+		0 0 16px $value,
+		0 0 19px $value,
+		0 0 22px $value;
+	}
+}
+//box-shadow
+
+// 红色 #FF0000 
+@keyframes bs1 {
+	@include bs_ani(#FF0000);
+}
+@-webkit-keyframes bs1 {
+	@include bs_ani(#FF0000);
+}
+// 橙色 #FF7F00
+@keyframes bs2 {
+	@include bs_ani(#FF7F00);
+}
+@-webkit-keyframes bs2 {
+	@include bs_ani(#FF7F00);
+}
+// 黄色 #FFFF00 
+@keyframes bs3 {
+	@include bs_ani(#FFFF00);
+}
+@-webkit-keyframes bs3 {
+	@include bs_ani(#FFFF00);
+}
+// 绿色 #00FF00 
+@keyframes bs4 {
+	@include bs_ani(#00FF00);
+}
+@-webkit-keyframes bs4 {
+	@include bs_ani(#00FF00);
+}
+// 青色 #00FFFF 
+@keyframes bs5 {
+	@include bs_ani(#00FFFF);
+}
+@-webkit-keyframes bs5 {
+	@include bs_ani(#00FFFF);
+}
+// 蓝色 #0000FF
+@keyframes bs6 {
+	@include bs_ani(#0000FF);
+}
+@-webkit-keyframes bs6 {
+	@include bs_ani(#0000FF);
+}
+// 紫色 #8B00FF
+@keyframes bs7 {
+	@include bs_ani(#8B00FF);
+}
+@-webkit-keyframes bs7 {
+	@include bs_ani(#8B00FF);
+}
+
+
+
+
+
+
+
+//text-shadow
+// 红色 #FF0000 
+@keyframes rd1 {
+	@include rd_ani(#FF0000);
+}
+@-webkit-keyframes rd1 {
+	@include rd_ani(#FF0000);
+}
+// 橙色 #FF7F00
+@keyframes rd2 {
+	@include rd_ani(#FF7F00);
+}
+@-webkit-keyframes rd2 {
+	@include rd_ani(#FF7F00);
+}
+// 黄色 #FFFF00 
+@keyframes rd3 {
+	@include rd_ani(#FFFF00);
+}
+@-webkit-keyframes rd3 {
+	@include rd_ani(#FFFF00);
+}
+// 绿色 #00FF00 
+@keyframes rd4 {
+	@include rd_ani(#00FF00);
+}
+@-webkit-keyframes rd4 {
+	@include rd_ani(#00FF00);
+}
+// 青色 #00FFFF 
+@keyframes rd5 {
+	@include rd_ani(#00FFFF);
+}
+@-webkit-keyframes rd5 {
+	@include rd_ani(#00FFFF);
+}
+// 蓝色 #0000FF
+@keyframes rd6 {
+	@include rd_ani(#0000FF);
+}
+@-webkit-keyframes rd6 {
+	@include rd_ani(#0000FF);
+}
+// 紫色 #8B00FF
+@keyframes rd7 {
+	@include rd_ani(#8B00FF);
+}
+@-webkit-keyframes rd7 {
+	@include rd_ani(#8B00FF);
+}
+$c1 : #FF0000;
+$c2 : #FF7F00;
+$c3 : #FFFF00;
+$c4 : #00FF00;
+$c5 : #00FFFF;
+$c6 : #0000FF;
+$c7 : #8B00FF;

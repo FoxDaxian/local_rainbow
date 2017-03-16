@@ -1,0 +1,2414 @@
+[ 2017-02-28T09:10:00+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001136s ]
+
+[ 2017-02-28T09:30:22+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-02-28T09:31:07+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-02-28T09:32:05+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2017-02-28T09:32:42+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+
+[ 2017-02-28T09:33:48+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-02-28T09:36:09+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-02-28T09:46:27+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+
+[ 2017-02-28T10:04:49+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2017-02-28T10:05:35+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+
+[ 2017-02-28T10:10:33+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+
+[ 2017-02-28T10:11:29+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+
+[ 2017-02-28T10:11:50+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2017-02-28T10:14:10+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2017-02-28T10:14:33+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-02-28T10:15:05+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+
+[ 2017-02-28T10:16:38+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+
+[ 2017-02-28T10:18:29+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+
+[ 2017-02-28T10:20:01+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2017-02-28T10:20:28+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2017-02-28T10:24:12+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2017-02-28T10:26:14+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-02-28T10:26:34+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2017-02-28T10:26:45+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2017-02-28T10:33:37+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+
+[ 2017-02-28T10:36:27+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+
+[ 2017-02-28T10:37:05+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-02-28T10:39:08+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+
+[ 2017-02-28T10:39:51+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-02-28T10:43:39+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+
+[ 2017-02-28T10:45:13+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+
+[ 2017-02-28T10:47:55+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2017-02-28T10:51:05+08:00 ] 127.0.0.1 /blog/home/index/activation
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-02-28T10:54:29+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2017-02-28T10:55:52+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+
+[ 2017-02-28T10:56:14+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-02-28T10:56:15+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000810s ]
+
+[ 2017-02-28T10:56:31+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000934s ]
+
+[ 2017-02-28T10:56:32+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000891s ]
+
+[ 2017-02-28T10:56:47+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001010s ]
+
+[ 2017-02-28T10:56:54+08:00 ] 127.0.0.1 /blog/home/index/activation?key=%221%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+
+[ 2017-02-28T10:56:56+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-02-28T10:57:02+08:00 ] 127.0.0.1 /blog/home/index/activation
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001135s ]
+
+[ 2017-02-28T10:57:11+08:00 ] 127.0.0.1 /blog/home/index/activation?key=%221%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-02-28T10:57:13+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-02-28T10:57:20+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+
+[ 2017-02-28T10:57:22+08:00 ] 127.0.0.1 /blog/home/index/activation?key=%221111%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-02-28T10:57:23+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2017-02-28T10:57:35+08:00 ] 127.0.0.1 /blog/home/index/activation?key=%221111%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+
+[ 2017-02-28T10:57:35+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-02-28T10:57:42+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+
+[ 2017-02-28T10:57:44+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2017-02-28T10:57:47+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2017-02-28T10:58:14+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000817s ]
+
+[ 2017-02-28T10:58:15+08:00 ] 127.0.0.1 /blog/home/index/activation?key=%221111%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2017-02-28T10:58:24+08:00 ] 127.0.0.1 /blog/home/index/activation?key=%221111%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+
+[ 2017-02-28T10:58:26+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+
+[ 2017-02-28T10:58:27+08:00 ] 127.0.0.1 /blog/home/index/activation?key=%221111%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2017-02-28T10:58:36+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+
+[ 2017-02-28T10:58:37+08:00 ] 127.0.0.1 /blog/home/index/activation?key=%22sadiwijaisdj%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+
+[ 2017-02-28T10:58:51+08:00 ] 127.0.0.1 /blog/home/index/activation?key=%22sadiwijaisdj%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000814s ]
+
+[ 2017-02-28T10:58:52+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2017-02-28T10:58:53+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2017-02-28T10:58:54+08:00 ] 127.0.0.1 /blog/home/index/activation?key=asdsada
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2017-02-28T10:59:37+08:00 ] 127.0.0.1 /blog/home/index/activation
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-02-28T10:59:42+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2017-02-28T11:01:45+08:00 ] 127.0.0.1 /blog/home/index/activation?key=asdsada
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+
+[ 2017-02-28T11:01:46+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-02-28T11:01:46+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+
+[ 2017-02-28T11:02:33+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2017-02-28T11:02:33+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2017-02-28T11:02:35+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+
+[ 2017-02-28T11:03:50+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-02-28T11:03:52+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2017-02-28T11:03:55+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+
+[ 2017-02-28T11:03:56+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-02-28T11:04:02+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2017-02-28T11:04:04+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-02-28T11:04:31+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2017-02-28T11:04:38+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000923s ]
+
+[ 2017-02-28T11:04:47+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2017-02-28T11:04:48+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2017-02-28T11:04:50+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-02-28T11:04:52+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+
+[ 2017-02-28T11:05:00+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+
+[ 2017-02-28T11:05:16+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2017-02-28T11:05:17+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000609s ]
+
+[ 2017-02-28T11:05:17+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-02-28T11:06:48+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+
+[ 2017-02-28T11:06:48+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-02-28T11:06:57+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2017-02-28T11:06:58+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+
+[ 2017-02-28T11:06:58+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+
+[ 2017-02-28T11:06:59+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+
+[ 2017-02-28T11:06:59+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2017-02-28T11:06:59+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+
+[ 2017-02-28T11:06:59+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2017-02-28T11:06:59+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+
+[ 2017-02-28T11:07:00+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-02-28T11:07:00+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+
+[ 2017-02-28T11:07:00+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+
+[ 2017-02-28T11:10:54+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+
+[ 2017-02-28T11:10:55+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+
+[ 2017-02-28T11:12:57+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000901s ]
+
+[ 2017-02-28T11:12:57+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-02-28T11:12:59+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+
+[ 2017-02-28T11:13:26+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2017-02-28T11:13:46+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+
+[ 2017-02-28T11:13:47+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+ERR: 模板不存在:G:/php_folder/thinkphp/blog/Home/View/Index/activation.html
+
+[ 2017-02-28T11:17:21+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+
+[ 2017-02-28T11:17:22+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2017-02-28T11:17:28+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2017-02-28T11:17:29+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+
+[ 2017-02-28T11:17:45+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+
+[ 2017-02-28T11:17:55+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+
+[ 2017-02-28T11:17:56+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-02-28T11:18:04+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-02-28T11:18:11+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+
+[ 2017-02-28T11:19:07+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+
+[ 2017-02-28T11:19:07+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2017-02-28T11:19:21+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2017-02-28T11:19:21+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-02-28T11:19:27+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2017-02-28T11:19:56+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+
+[ 2017-02-28T11:20:03+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+
+[ 2017-02-28T11:20:03+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2017-02-28T11:20:08+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+
+[ 2017-02-28T11:20:15+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2017-02-28T11:20:16+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+
+[ 2017-02-28T11:20:19+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+
+[ 2017-02-28T11:20:20+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-02-28T11:20:27+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-02-28T11:20:27+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2017-02-28T11:20:29+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-02-28T11:20:30+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2017-02-28T11:20:34+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+
+[ 2017-02-28T11:20:35+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2017-02-28T11:20:42+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2017-02-28T11:20:42+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2017-02-28T11:20:45+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+
+[ 2017-02-28T11:20:45+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2017-02-28T11:20:51+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+
+[ 2017-02-28T11:20:51+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+
+[ 2017-02-28T11:20:57+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2017-02-28T11:20:57+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-02-28T11:20:57+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2017-02-28T11:21:42+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+
+[ 2017-02-28T11:21:46+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2017-02-28T11:21:52+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2017-02-28T11:21:52+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+
+[ 2017-02-28T11:21:55+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2017-02-28T11:21:56+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2017-02-28T11:22:04+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2017-02-28T11:22:04+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+
+[ 2017-02-28T11:22:25+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000835s ]
+
+[ 2017-02-28T11:22:25+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2017-02-28T11:22:32+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+
+[ 2017-02-28T11:22:44+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+
+[ 2017-02-28T11:22:44+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-02-28T11:22:44+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2017-02-28T11:22:56+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-02-28T11:22:57+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2017-02-28T11:23:03+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2017-02-28T11:23:03+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+
+[ 2017-02-28T11:23:03+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+
+[ 2017-02-28T11:23:35+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+
+[ 2017-02-28T11:23:38+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-02-28T11:23:53+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2017-02-28T11:24:06+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2017-02-28T11:24:11+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2017-02-28T11:24:11+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+
+[ 2017-02-28T11:24:55+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2017-02-28T11:25:00+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2017-02-28T11:25:04+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+
+[ 2017-02-28T11:25:09+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2017-02-28T11:25:13+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+
+[ 2017-02-28T11:25:43+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+
+[ 2017-02-28T11:25:50+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-02-28T11:26:25+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000888s ]
+
+[ 2017-02-28T11:26:35+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2017-02-28T11:28:27+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2017-02-28T11:28:32+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+
+[ 2017-02-28T11:30:24+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2017-02-28T11:30:30+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+
+[ 2017-02-28T11:30:41+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+
+[ 2017-02-28T11:30:41+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-02-28T11:31:56+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2017-02-28T11:32:12+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000790s ]
+
+[ 2017-02-28T11:32:18+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-02-28T11:32:18+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2017-02-28T11:32:19+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-02-28T11:34:28+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+
+[ 2017-02-28T11:34:31+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+
+[ 2017-02-28T11:35:04+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-02-28T11:35:11+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-02-28T11:35:38+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2017-02-28T11:35:39+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2017-02-28T11:35:39+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2017-02-28T11:36:15+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2017-02-28T11:36:47+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2017-02-28T11:36:57+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000807s ]
+
+[ 2017-02-28T11:37:04+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+
+[ 2017-02-28T11:37:34+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2017-02-28T11:37:34+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-02-28T11:39:14+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-02-28T11:39:17+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2017-02-28T11:40:48+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ( email_code = '64de71cd44128edc9daa7e4fc6be9287' AND  username = '测试'' at line 1
+ [ SQL语句 ] : UPDATE `user_info` SET  WHERE ( email_code = '64de71cd44128edc9daa7e4fc6be9287' AND  username = '测试' AND account = 'zxcasdqwe' )
+
+[ 2017-02-28T11:41:46+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ( email_code = '64de71cd44128edc9daa7e4fc6be9287' AND  username = '测试 ' at line 1
+ [ SQL语句 ] : UPDATE `user_info` SET  WHERE ( email_code = '64de71cd44128edc9daa7e4fc6be9287' AND  username = '测试 AND account = 'zxcasdqwe' )
+
+[ 2017-02-28T11:41:50+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ( email_code = '64de71cd44128edc9daa7e4fc6be9287' AND  username = '测试'' at line 1
+ [ SQL语句 ] : UPDATE `user_info` SET  WHERE ( email_code = '64de71cd44128edc9daa7e4fc6be9287' AND  username = '测试' AND account = 'zxcasdqwe' )
+
+[ 2017-02-28T11:42:21+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ( email_code = '64de71cd44128edc9daa7e4fc6be9287' AND  username = '测试'' at line 1
+ [ SQL语句 ] : UPDATE `user_info` SET  WHERE ( email_code = '64de71cd44128edc9daa7e4fc6be9287' AND  username = '测试' AND account = 'zxcasdqwe' )
+
+[ 2017-02-28T11:42:22+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ( email_code = '64de71cd44128edc9daa7e4fc6be9287' AND  username = '测试'' at line 1
+ [ SQL语句 ] : UPDATE `user_info` SET  WHERE ( email_code = '64de71cd44128edc9daa7e4fc6be9287' AND  username = '测试' AND account = 'zxcasdqwe' )
+
+[ 2017-02-28T11:42:23+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ( email_code = '64de71cd44128edc9daa7e4fc6be9287' AND  username = '测试'' at line 1
+ [ SQL语句 ] : UPDATE `user_info` SET  WHERE ( email_code = '64de71cd44128edc9daa7e4fc6be9287' AND  username = '测试' AND account = 'zxcasdqwe' )
+
+[ 2017-02-28T11:42:44+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000898s ]
+
+[ 2017-02-28T11:42:52+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ( email_code = '64de71cd44128edc9daa7e4fc6be9287' AND  username = '测试'' at line 1
+ [ SQL语句 ] : UPDATE `user_info` SET  WHERE ( email_code = '64de71cd44128edc9daa7e4fc6be9287' AND  username = '测试' AND account = 'zxcasdqwe' )
+
+[ 2017-02-28T11:42:55+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ( email_code = '64de71cd44128edc9daa7e4fc6be9287' AND  username = '测试'' at line 1
+ [ SQL语句 ] : UPDATE `user_info` SET  WHERE ( email_code = '64de71cd44128edc9daa7e4fc6be9287' AND  username = '测试' AND account = 'zxcasdqwe' )
+
+[ 2017-02-28T13:21:21+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ( email_code = '64de71cd44128edc9daa7e4fc6be9287' AND  username = '测试'' at line 1
+ [ SQL语句 ] : UPDATE `user_info` SET  WHERE ( email_code = '64de71cd44128edc9daa7e4fc6be9287' AND  username = '测试' AND account = 'zxcasdqwe' )
+
+[ 2017-02-28T13:22:05+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+
+[ 2017-02-28T13:24:03+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ( email_code = '64de71cd44128edc9daa7e4fc6be9287' AND  username = '测试'' at line 1
+ [ SQL语句 ] : UPDATE `user_info` SET  WHERE ( email_code = '64de71cd44128edc9daa7e4fc6be9287' AND  username = '测试' AND account = 'zxcasdqwe' )
+
+[ 2017-02-28T13:39:15+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2017-02-28T13:39:49+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ( email_code = '64de71cd44128edc9daa7e4fc6be9287' )' at line 1
+ [ SQL语句 ] : UPDATE `user_info` SET  WHERE ( email_code = '64de71cd44128edc9daa7e4fc6be9287' )
+
+[ 2017-02-28T13:40:32+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-02-28T13:40:54+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-02-28T13:40:55+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2017-02-28T13:40:55+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+
+[ 2017-02-28T13:41:11+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+
+[ 2017-02-28T13:42:43+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+
+[ 2017-02-28T13:43:03+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-02-28T13:43:26+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2017-02-28T13:43:34+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+
+[ 2017-02-28T13:43:52+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2017-02-28T13:45:07+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+
+[ 2017-02-28T13:45:08+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-02-28T13:45:08+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2017-02-28T13:45:09+08:00 ] 127.0.0.1 /blog/home/index/activation?key=64de71cd44128edc9daa7e4fc6be9287&username=%E6%B5%8B%E8%AF%95&account=zxcasdqwe
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000857s ]
+
+[ 2017-02-28T13:45:13+08:00 ] 127.0.0.1 /blog/home/index/activation
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+
+[ 2017-02-28T13:47:27+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+
+[ 2017-02-28T13:48:08+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2017-02-28T13:48:33+08:00 ] 127.0.0.1 /blog/home/index/activation?key=665087281c50fe0993dd0367b8a3abb7&username=%E5%A4%A7%E8%A5%BF%E7%93%9C&account=a945039036
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001064s ]
+
+[ 2017-02-28T13:49:57+08:00 ] 127.0.0.1 /blog/home/index/activation?key=665087281c50fe0993dd0367b8a3abb7&username=%E5%A4%A7%E8%A5%BF%E7%93%9C&account=a945039036
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2017-02-28T13:50:57+08:00 ] 127.0.0.1 /blog/home/index/activation?key=665087281c50fe0993dd0367b8a3abb7&username=%E5%A4%A7%E8%A5%BF%E7%93%9C&account=a945039036
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2017-02-28T13:51:52+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+
+[ 2017-02-28T13:52:04+08:00 ] 127.0.0.1 /blog/home/index/activation?key=0ebcdd6369adcbcc9822f3f3e6ac1329&username=%E5%A4%A7%E8%A5%BF%E7%93%9C&account=a945039036
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+
+[ 2017-02-28T13:53:22+08:00 ] 127.0.0.1 /blog/home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2017-02-28T13:53:40+08:00 ] 127.0.0.1 /blog/home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-02-28T13:55:33+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+
+[ 2017-02-28T13:55:45+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+
+[ 2017-02-28T13:56:08+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2017-02-28T13:56:23+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-02-28T13:57:00+08:00 ] 127.0.0.1 /blog/home/index/activation?key=4992a5907313f832ddb733c747776a18&username=%E5%A4%A7%E8%A5%BF%E7%93%9C&account=a945039036
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001163s ]
+
+[ 2017-02-28T13:57:11+08:00 ] 127.0.0.1 /blog/home/index/activation?key=4992a5907313f832ddb733c747776a18&username=%E5%A4%A7%E8%A5%BF%E7%93%9C&account=a945039036
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+
+[ 2017-02-28T13:59:02+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2017-02-28T13:59:39+08:00 ] 127.0.0.1 /blog/home/index/activation?key=9149ff4cae9420cf231d841765bb49e1&username=%E5%A4%A7%E8%A5%BF%E7%93%9C&account=a945039036
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+
+[ 2017-02-28T14:04:25+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2017-02-28T14:05:31+08:00 ] 127.0.0.1 /blog/home/index/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2017-02-28T14:10:29+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+
+[ 2017-02-28T14:10:40+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-02-28T14:13:00+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+
+[ 2017-02-28T14:16:32+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+
+[ 2017-02-28T14:16:38+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+
+[ 2017-02-28T14:21:19+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-02-28T14:21:21+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2017-02-28T14:22:14+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2017-02-28T14:22:24+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2017-02-28T14:22:26+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+
+[ 2017-02-28T14:23:38+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+
+[ 2017-02-28T14:32:45+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+
+[ 2017-02-28T14:33:30+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+
+[ 2017-02-28T14:33:31+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+
+[ 2017-02-28T14:33:33+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+
+[ 2017-02-28T14:33:33+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2017-02-28T14:34:10+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2017-02-28T14:35:10+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+
+[ 2017-02-28T14:35:32+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2017-02-28T14:35:47+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2017-02-28T14:41:05+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+
+[ 2017-02-28T14:46:36+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000880s ]
+
+[ 2017-02-28T14:46:41+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2017-02-28T14:47:04+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+
+[ 2017-02-28T14:47:08+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2017-02-28T14:49:57+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+
+[ 2017-02-28T14:50:11+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2017-02-28T14:51:26+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+
+[ 2017-02-28T14:53:13+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2017-02-28T14:53:14+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2017-02-28T14:55:25+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+
+[ 2017-02-28T14:55:27+08:00 ] 127.0.0.1 /blog/home/index/activation
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+
+[ 2017-02-28T14:55:29+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-02-28T14:55:34+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+
+[ 2017-02-28T14:59:46+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-02-28T15:10:04+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+
+[ 2017-02-28T15:10:26+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-02-28T15:14:22+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-02-28T15:14:29+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-02-28T15:14:30+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+
+[ 2017-02-28T15:14:38+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2017-02-28T15:14:52+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+
+[ 2017-02-28T15:15:01+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-02-28T15:15:43+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+
+[ 2017-02-28T15:15:44+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+
+[ 2017-02-28T15:15:54+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2017-02-28T15:17:23+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+
+[ 2017-02-28T15:17:34+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2017-02-28T15:19:21+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-02-28T15:43:11+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+
+[ 2017-02-28T15:43:55+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2017-02-28T15:45:25+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+
+[ 2017-02-28T15:45:34+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+
+[ 2017-02-28T15:45:37+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+
+[ 2017-02-28T15:46:19+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2017-02-28T15:47:47+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000952s ]
+
+[ 2017-02-28T15:47:48+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000858s ]
+
+[ 2017-02-28T15:48:01+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+
+[ 2017-02-28T15:48:02+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000992s ]
+
+[ 2017-02-28T15:48:07+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-02-28T15:48:15+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000902s ]
+
+[ 2017-02-28T15:48:34+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000143s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001074s ]
+
+[ 2017-02-28T15:48:43+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2017-02-28T15:48:53+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+
+[ 2017-02-28T15:52:40+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-02-28T15:52:41+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2017-02-28T15:52:41+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000813s ]
+
+[ 2017-02-28T15:56:52+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-02-28T15:56:58+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+
+[ 2017-02-28T15:57:02+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-02-28T15:57:03+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2017-02-28T15:57:03+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2017-02-28T15:57:10+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2017-02-28T15:59:11+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+
+[ 2017-02-28T15:59:16+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+
+[ 2017-02-28T15:59:57+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2017-02-28T16:00:04+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+
+[ 2017-02-28T16:12:50+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000814s ]
+
+[ 2017-02-28T16:12:52+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+
+[ 2017-02-28T16:13:04+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001191s ]
+
+[ 2017-02-28T16:13:05+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+
+[ 2017-02-28T16:13:06+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+
+[ 2017-02-28T16:13:20+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+
+[ 2017-02-28T16:13:30+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2017-02-28T16:13:37+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+
+[ 2017-02-28T16:20:16+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+
+[ 2017-02-28T16:20:17+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+
+[ 2017-02-28T16:21:03+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+
+[ 2017-02-28T16:21:13+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+
+[ 2017-02-28T16:21:17+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2017-02-28T16:22:12+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+
+[ 2017-02-28T16:22:13+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2017-02-28T16:22:33+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-02-28T16:22:35+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+
+[ 2017-02-28T16:23:10+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+
+[ 2017-02-28T16:23:18+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-02-28T16:23:19+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2017-02-28T16:23:24+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2017-02-28T16:24:12+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2017-02-28T16:24:13+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-02-28T16:24:13+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2017-02-28T16:24:16+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+
+[ 2017-02-28T16:24:33+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2017-02-28T16:24:36+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+
+[ 2017-02-28T16:24:37+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+
+[ 2017-02-28T16:24:37+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+
+[ 2017-02-28T16:24:37+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2017-02-28T16:24:43+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2017-02-28T16:24:54+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-02-28T16:25:52+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000844s ]
+
+[ 2017-02-28T16:26:03+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000981s ]
+
+[ 2017-02-28T16:26:08+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+
+[ 2017-02-28T16:26:16+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+
+[ 2017-02-28T16:26:19+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2017-02-28T16:27:21+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2017-02-28T16:40:18+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2017-02-28T16:40:22+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2017-02-28T16:40:40+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+
+[ 2017-02-28T16:40:41+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2017-02-28T16:40:49+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000839s ]
+
+[ 2017-02-28T16:41:09+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+
+[ 2017-02-28T16:41:13+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-02-28T16:41:17+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2017-02-28T16:41:43+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-02-28T16:41:43+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-02-28T16:41:43+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2017-02-28T16:41:43+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+
+[ 2017-02-28T16:41:44+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2017-02-28T16:41:44+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+
+[ 2017-02-28T16:41:50+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2017-02-28T16:41:58+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+
+[ 2017-02-28T16:41:58+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2017-02-28T16:42:02+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+
+[ 2017-02-28T16:42:08+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2017-02-28T16:42:12+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2017-02-28T16:42:17+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+
+[ 2017-02-28T16:42:18+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2017-02-28T16:43:10+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-02-28T16:43:13+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2017-02-28T16:43:13+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2017-02-28T16:44:12+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+
+[ 2017-02-28T16:44:19+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-02-28T16:44:22+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2017-02-28T16:44:23+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+
+[ 2017-02-28T16:44:58+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2017-02-28T16:44:59+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+
+[ 2017-02-28T16:45:03+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2017-02-28T16:45:03+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+
+[ 2017-02-28T16:45:06+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2017-02-28T16:45:06+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+
+[ 2017-02-28T16:47:16+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+
+[ 2017-02-28T16:47:17+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+
+[ 2017-02-28T16:47:27+08:00 ] 127.0.0.1 /blog/home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2017-02-28T16:47:45+08:00 ] 127.0.0.1 /blog/home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2017-02-28T16:48:08+08:00 ] 127.0.0.1 /blog/home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-02-28T16:53:32+08:00 ] 127.0.0.1 /blog/home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2017-02-28T16:54:09+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+
+[ 2017-02-28T16:54:17+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+
+[ 2017-02-28T17:14:02+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+
+[ 2017-02-28T17:15:20+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-02-28T17:15:41+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+
+[ 2017-02-28T17:16:27+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+
+[ 2017-02-28T17:17:04+08:00 ] 127.0.0.1 /blog/home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-02-28T17:18:44+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+
+[ 2017-02-28T17:18:45+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+
+[ 2017-02-28T17:18:50+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+
+[ 2017-02-28T17:18:51+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+
+[ 2017-02-28T17:19:09+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+
+[ 2017-02-28T17:19:13+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2017-02-28T17:19:23+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+
+[ 2017-02-28T17:19:29+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-02-28T17:21:05+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+
+[ 2017-02-28T17:21:09+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2017-02-28T17:21:13+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2017-02-28T17:21:30+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001125s ]
+
+[ 2017-02-28T17:21:37+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+
+[ 2017-02-28T17:21:39+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+
+[ 2017-02-28T17:21:40+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2017-02-28T17:21:42+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2017-02-28T17:21:48+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2017-02-28T17:21:54+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2017-02-28T17:22:09+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+
+[ 2017-02-28T17:22:57+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2017-02-28T17:23:04+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+
+[ 2017-02-28T17:23:07+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+
+[ 2017-02-28T17:23:12+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2017-02-28T17:23:19+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2017-02-28T17:24:07+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+
+[ 2017-02-28T17:24:23+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+
+[ 2017-02-28T17:24:33+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001323s ]
+
+[ 2017-02-28T17:24:50+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2017-02-28T17:25:01+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2017-02-28T17:25:09+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+
+[ 2017-02-28T17:26:08+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+
+[ 2017-02-28T17:26:49+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+
+[ 2017-02-28T17:26:55+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-02-28T17:27:31+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000810s ]
+
+[ 2017-02-28T17:28:35+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-02-28T17:28:36+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2017-02-28T17:28:43+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2017-02-28T17:28:44+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2017-02-28T17:28:59+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+
+[ 2017-02-28T17:29:42+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2017-02-28T17:30:14+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2017-02-28T17:30:20+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2017-02-28T17:30:29+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-02-28T17:31:49+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2017-02-28T17:32:25+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2017-02-28T17:39:23+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2017-02-28T17:40:05+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+
+[ 2017-02-28T17:40:21+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000930s ]
+
+[ 2017-02-28T17:41:37+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+
+[ 2017-02-28T17:41:38+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+
+[ 2017-02-28T17:47:13+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2017-02-28T17:47:14+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+
+[ 2017-02-28T17:47:24+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2017-02-28T17:48:56+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-02-28T17:50:42+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2017-02-28T17:51:06+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2017-02-28T17:51:14+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2017-02-28T18:01:27+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+
+[ 2017-02-28T18:01:49+08:00 ] 127.0.0.1 /blog/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+ERR: 非法操作:index
+
+[ 2017-02-28T18:16:00+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+
+[ 2017-02-28T18:16:22+08:00 ] 127.0.0.1 /blog/home/index/test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+
