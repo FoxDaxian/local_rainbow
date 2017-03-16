@@ -20,7 +20,7 @@
 
 ### 移除
 - [x] 移除canvas
-- [s] 移除element-ui
+- [x] 移除element-ui
 
 **后台使用tp**
 
@@ -28,7 +28,7 @@
 
 **使用技能**
 
-1. vue
+*  vue
 *  vue-resource
 *  vue-router
 *  vuex
