@@ -14,10 +14,13 @@
 - [ ] 增加用户头像，上传图片
 - [ ] cms
 - [ ] 美化网站用的图标库
-- [ ] 需要放到createDocumentFragment里的canvas
 - [ ] 移动端自适应
-- [ ] 富文本编辑器的样式，element-ui的样式
+- [ ] 富文本编辑器的样式
 - [ ] 待补充
+
+### 移除
+- [x] 移除canvas
+- [s] 移除element-ui
 
 **后台使用tp**
 
