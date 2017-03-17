@@ -21,7 +21,9 @@
 
 ### 移除
 - [x] 移除canvas
-- [x] 移除element-ui
+
+### 新增
+- [x] element-ui
 
 **后台使用tp**
 
