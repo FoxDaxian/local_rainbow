@@ -261,7 +261,7 @@
 			artical_arr(){//当前作者的文章
 				let user_artical_arr = [];
 				for( let item in this.all_artical){
-					(this.all_artical[item].user_id = this.user_data.id) && user_artical_arr.push(this.all_artical[item]);
+					(this.all_artical[item].user_id === this.user_data.id) && user_artical_arr.push(this.all_artical[item]);
 				}
 				return user_artical_arr;
 			}
@@ -278,49 +278,55 @@
 				return year + "-" + month + "-" + day + " " + hour + ":" + minute + ":" + second;
 			},
 			delete_this(id){
-				this.$http({
-					url:"http://www.tp.com/blog/home/index/delete_artical",
-					method:"post",
-					body:{
-						artical_id:id,
-					},
-					emulateJSON: true,
-				}).then( (data) => {
-					this.$store.commit("delete_artical",id);
-					if( data.data.res === 1 ){
-						console.log("删除成功");
-					}
-					if( data.data.res === 2 ){
-						console.log("检测不到删除");
-					}
-					if( data.data.res === 0 ){
-						console.log("服务器错误");
-					}
-				},(data) => {
-					console.error("请求失败，来自my_artical.vue");
-				});				
+				this.$confirm('老铁啊，你要是点确定，那你这篇文章就没了，我可不给你多少天之内能恢复的机会啊，想清楚！', '致老铁：', {
+					confirmButtonText: '确定',
+					cancelButtonText: '取消',
+					type: 'warning'
+				}).then(() => {
+					this.$http({
+						url:"http://www.tp.com/blog/home/index/delete_artical",
+						method:"post",
+						body:{
+							artical_id:id,
+						},
+						emulateJSON: true,
+					}).then( (data) => {
+						this.$store.commit("delete_artical",id);
+						if( data.data.res === 1 ){
+							this.$msg({
+								showClose: true,
+								message: '听你的',
+								type: 'success'
+							});
+						}
+						if( data.data.res === 2 ){
+							this.$msg({
+								showClose: true,
+								message: '数据库爆炸',
+								type: 'error'
+							});
+						}
+						if( data.data.res === 0 ){
+							this.$msg({
+								showClose: true,
+								message: '数据库爆炸',
+								type: 'error'
+							});
+						}
+					},(data) => {
+						console.error("请求失败，来自my_artical.vue");
+					});
+				}).catch(() => {
+					this.$msg({
+						type: 'info',
+						message: '咱不删'
+					});          
+				});
+
 			}
 		},
 		mounted(){
 			
-			//取消了http请求，转为从vuex存储的全部文章数据中获取数据
-			// this.$http({
-			// 	url:"http://www.tp.com/blog/home/index/get_user_all_artical",
-			// 	method:"post",
-			// 	body:{
-			// 		id:this.user_data.id,
-			// 	},
-			// 	emulateJSON: true,
-			// }).then( (data) => {
-			// 	if( data.data.res === 0 ){
-			// 		this.artical_arr = null;
-			// 	}else{
-			// 		console.log(data.data.res);
-			// 		this.artical_arr  = data.data.res;
-			// 	}
-			// },(data) => {
-			// 	console.error("请求失败，来自my_artical.vue");
-			// });
 		}
 	};
 </script>

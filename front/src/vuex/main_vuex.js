@@ -1,3 +1,8 @@
+//使用vuex
+import Vue from 'vue';
+import Vuex from 'vuex'
+Vue.use(Vuex);
+
 var config = {
 	state: {
 		userInfo:null,//当前用户信息，不刷新、跳转的情况下都存在这了
@@ -85,6 +90,8 @@ var config = {
 		}
 	}
 };
+
+let store = new Vuex.Store(config);
 export default {
-	config
+	store
 };

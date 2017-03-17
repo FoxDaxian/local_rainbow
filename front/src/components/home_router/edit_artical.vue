@@ -107,13 +107,25 @@
 						content:cont
 					});
 					if( data.data.res === 1 ){
-						alert('修改成功');
+						this.$msg({
+							showClose: true,
+							message: '我帮你改完了',
+							type: 'error'
+						});
 					}
 					if( data.data.res === 2 ){
-						alert('系统未检测到修改');
+						this.$msg({
+							showClose: true,
+							message: '老铁，你都没改',
+							type: 'error'
+						});
 					}
 					if( data.data.res === 0 ){
-						console.error("服务器错误");
+						this.$msg({
+							showClose: true,
+							message: '数据库爆炸',
+							type: 'error'
+						});
 					}
 				},(data) => {
 					console.error("请求失败，来自edit_artical.vue");

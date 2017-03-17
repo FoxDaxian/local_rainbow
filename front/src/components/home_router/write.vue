@@ -103,7 +103,11 @@
 		},
 		computed:{
 			user_data(){
-				return this.$store.state.userInfo;
+				if( this.$store.state.userInfo ){
+					return this.$store.state.userInfo;
+				}else{
+					return "请登录";
+				}
 			},
 			doc_title(){
 				return document.title;
@@ -120,7 +124,11 @@
 				html = markdown_obj.$txt.html(),
 				formatText = markdown_obj.$txt.formatText();
 				if( (formatText.trim().length === 0) && !/img/.test(html) ){
-					alert('内容为空');
+					this.$msg({
+						showClose: true,
+						message: '写东西啊，烦不烦啊',
+						type: 'error'
+					});
 				}else{
 					if( this.artical_title.trim().length !== 0 ){
 						this.$http({
@@ -134,16 +142,32 @@
 							emulateJSON: true,
 						}).then( (data) => {
 							if( data.data.res === 1   ){
-								title === undefined && alert('保存成功');
+								title === undefined && this.$msg({
+									showClose: true,
+									message: '帮你存了，老铁',
+									type: 'error'
+								});
 							}else{
-								alert('请重试');
+								this.$msg({
+									showClose: true,
+									message: '数据库爆炸',
+									type: 'error'
+								});
 							}
 						},(data) => {
-							console.error("请求失败，来自write.vue");
+							this.$msg({
+								showClose: true,
+								message: '数据库爆炸',
+								type: 'error'
+							});
 						});
 						
 					}else{
-						alert('标题为空');
+						this.$msg({
+							showClose: true,
+							message: '标题！标题！标题！',
+							type: 'error'
+						});
 					}
 				}
 			},
@@ -152,53 +176,83 @@
 				html = markdown_obj.$txt.html(),
 				formatText = markdown_obj.$txt.formatText();
 				if( (formatText.trim().length === 0) && !/img/.test(html) ){
-					alert('内容为空');
+					this.$msg({
+						showClose: true,
+						message: '写东西啊，烦不烦啊',
+						type: 'error'
+					});
 				}else{
 					if( this.artical_title.trim().length !== 0 ){
-						let temp_time = new Date().getTime();
-						this.$http({
-							url:"http://www.tp.com/blog/home/index/send_artical",
-							method:"post",
-							body:{
-								id:this.user_data.id,
-								time:temp_time,
-								title:this.artical_title.trim(),
-								content:html
-							},
-							emulateJSON: true,
-						}).then( (data) => {
-							if( data.data.res === 1 ){
-								let temp_obj = {};
-								//添加到vuex的最新发表文章的数据
-								this.$set(temp_obj,'id',data.data.artical_id)
-								this.$set(temp_obj,'user_id',this.user_data.id)
-								this.$set(temp_obj,'title',this.artical_title.trim())
-								this.$set(temp_obj,'content',html)
-								this.$set(temp_obj,'release_time',temp_time)
-								this.$set(temp_obj,'username',this.user_data.username)
-								this.$set(temp_obj,'up',0)
-								this.$set(temp_obj,'down',0)
-								this.$set(temp_obj,'look',0)
-								this.$set(temp_obj,'comment_count',0)
-								this.$store.commit("unshift_to_articalData",temp_obj);
-								alert('发表成功');
-								this.$router.push({ 
-									path: '/detail', 
-									query: { 
-										detail: 0,
-									},
-								})
-								this.save(null,"无标题文章",'<p><br></p>');
-								this.artical_title = "无标题文章";
-								markdown_obj.$txt.html('<p><br></p>');
-							}else{
-								alert('请重试');
-							}
-						},(data) => {
-							console.error("请求失败，来自write.vue");
+
+
+						this.$confirm('咱发么?', '致老铁：', {
+							confirmButtonText: '发',
+							cancelButtonText: '不发',
+							type: 'warning'
+						}).then(() => {
+							let temp_time = new Date().getTime();
+							this.$http({
+								url:"http://www.tp.com/blog/home/index/send_artical",
+								method:"post",
+								body:{
+									id:this.user_data.id,
+									time:temp_time,
+									title:this.artical_title.trim(),
+									content:html
+								},
+								emulateJSON: true,
+							}).then( (data) => {
+								if( data.data.res === 1 ){
+									let temp_obj = {};
+									//添加到vuex的最新发表文章的数据
+									this.$set(temp_obj,'id',data.data.artical_id)
+									this.$set(temp_obj,'user_id',this.user_data.id)
+									this.$set(temp_obj,'title',this.artical_title.trim())
+									this.$set(temp_obj,'content',html)
+									this.$set(temp_obj,'release_time',temp_time)
+									this.$set(temp_obj,'username',this.user_data.username)
+									this.$set(temp_obj,'up',0)
+									this.$set(temp_obj,'down',0)
+									this.$set(temp_obj,'look',0)
+									this.$set(temp_obj,'comment_count',0)
+									this.$store.commit("unshift_to_articalData",temp_obj);
+									this.$msg({
+										showClose: true,
+										message: '发他丫的！',
+										type: 'success'
+									});
+									this.$router.push({ 
+										path: '/detail', 
+										query: { 
+											detail: 0,
+										},
+									})
+									this.save(null,"无标题文章",'<p><br></p>');
+									this.artical_title = "无标题文章";
+									markdown_obj.$txt.html('<p><br></p>');
+								}else{
+									this.$msg({
+										showClose: true,
+										message: '数据库爆炸',
+										type: 'error'
+									});
+								}
+							},(data) => {
+								console.error("请求失败，来自write.vue");
+							});
+						}).catch(() => {
+							this.$msg({
+								showClose: true,
+								message: '那就不发',
+								type: 'info'
+							});    
 						});
 					}else{
-						alert('标题为空');
+						this.$msg({
+							showClose: true,
+							message: '标题！标题！标题！',
+							type: 'error'
+						});
 					}
 				}
 			},
@@ -219,7 +273,7 @@
 			this.markdown.create();
 			this.$refs.input.focus();
 
-
+			
 			// 啥都不用了，第一次进来，追加内容就好，之后又keep-alive，所以不会丢失草稿内容
 			this.$http({
 				url:"http://www.tp.com/blog/home/index/get_draft",
@@ -235,7 +289,11 @@
 						this.markdown.$txt.html(this.escape2Html(data.data.res_data.content));
 					}
 				}else{
-					alert('草稿获取错误');
+					this.$msg({
+						showClose: true,
+						message: '数据库爆炸',
+						type: 'error'
+					});
 				}
 			},(data) => {
 				console.error("请求失败，来自write.vue");

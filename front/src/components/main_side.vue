@@ -143,7 +143,7 @@
 							},
 						})
 					}else{
-						alert('进入详情页失败');
+						console.error('进入详情页失败');
 					}
 				},(data) => {
 					console.error("请求失败，来自main_side.vue");
@@ -164,7 +164,7 @@
 					if( data.data.res === 1 ){
 						this.$store.commit("up",index);
 					}else{
-						alert('操作失败');
+						console.error('操作失败');
 					}
 				},(data) => {
 					console.error("请求失败，来自main_side.vue");
@@ -185,7 +185,7 @@
 					if( data.data.res === 1 ){
 						this.$store.commit("down",index);
 					}else{
-						alert('操作失败');
+						console.error('操作失败');
 					}
 				},(data) => {
 					console.error("请求失败，来自main_side.vue");

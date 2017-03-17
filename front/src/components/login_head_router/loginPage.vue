@@ -316,20 +316,52 @@
 					emulateJSON: true
 				}).then( (data) => {
 					if( data.data.res === 1 ){
-						// this.$router.push("/");
-						location.href = "http://localhost:8080";
+						if( this.back_path !== undefined ){
+							this.$http({
+								url:"http://www.tp.com/blog/home/index/autoLogin",
+								method:"get",
+							}).then( (data) => {
+								if( data.data.res === 0 ){
+									this.$store.commit("changeUserInfo",undefined);
+								}else {
+									this.$store.commit("changeUserInfo",data.data.res[0]);
+									this.$router.push(this.back_path);
+								}
+							},(data) => {
+								console.error("自动登录失败,来自app.vue");
+							});
+						}else{
+							this.$router.push("/");
+							// location.href = "http://localhost:8080"
+						}
 					}
 					if( data.data.res === 4 ){
-						alert('账号错误');
+						this.$msg({
+							type:"error",
+							showClose: true,
+							message: '账号都能忘？'
+						});
 					}
 					if( data.data.res === 2 ){
-						alert('密码错误');
+						this.$msg({
+							type:"error",
+							showClose: true,
+							message: '厉害，密码忘了？'
+						});
 					}
 					if( data.data.res === 3 ){
-						alert('该账号未激活');
+						this.$msg({
+							type:"error",
+							showClose: true,
+							message: '没激活啊，老哥'
+						});
 					}
 				},(data) => {
-					alert('登录失败');
+					this.$msg({
+						type:"error",
+						showClose: true,
+						message: '数据库爆炸'
+					});
 				});
 			},
 			registerFn(){
@@ -346,26 +378,53 @@
 						emulateJSON: true
 					}).then( (data) => {
 						if(  data.data.res === 1  ){
-							alert('邮件发送成功，请验证您的账户');
+							//发送成功
+							this.$msg({
+								type:"success",
+								showClose: true,
+								message: '呼...好累'
+							});
 						}
 						if( data.data.res === 3 ){
-							alert('账号已存在');
+							this.$msg({
+								type:"error",
+								showClose: true,
+								message: '账号被喵占了'
+							});
 						}
 						if( data.data.res === 4 ){
-							alert('用户名已存在');
+							this.$msg({
+								type:"error",
+								showClose: true,
+								message: '重起个独一无二的名字吧'
+							});
 						}
 						if( data.data.res === 5 ){
-							alert('您填写的邮箱已经注册过了');
+							this.$msg({
+								type:"error",
+								showClose: true,
+								message: '邮箱被别人抢先注册了，好气啊'
+							});
 						}
 					},(data) => {
-						alert('注册失败');
+						this.$msg({
+							type:"error",
+							showClose: true,
+							message: '数据库爆炸'
+						});
 					});
 				}
 
 				//这里是前台验证
 				let showerror = () => {
-					alert('信息填写有误，请确认');
+					this.$msg({
+						type:"error",
+						showClose: true,
+						message: '检查你的注册信息'
+					});
 				}
+
+
 				(this.regis_un_class === "success") &&
 				(this.regis_acc_class === "success") &&
 				(this.regis_pw_class === "success") &&
@@ -390,6 +449,9 @@
 			}
 		},
 		computed:{
+			back_path(){
+				return this.$router.currentRoute.query.back;
+			},
 			regis_un_class(){
 				if( this.ref3_onoff ){
 					if( this.regis_un.replace(/(^\s*)|(\s*$)/g, "").length >= 2 && this.regis_un.replace(/(^\s*)|(\s*$)/g, "").length <= 10 ){

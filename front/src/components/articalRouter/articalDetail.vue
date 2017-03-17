@@ -176,7 +176,12 @@
 							(el.id === id) && el.up++;
 						});
 					}else{
-						alert('操作失败');
+						this.$msg({
+							showClose: true,
+							message: '数据库爆炸',
+							type: 'error'
+						});
+
 					}
 				},(data) => {
 					console.error("请求失败，来自main_side.vue");
@@ -201,7 +206,11 @@
 							(el.id === id) && el.down++;
 						});
 					}else{
-						alert('操作失败');
+						this.$msg({
+							showClose: true,
+							message: '数据库爆炸',
+							type: 'error'
+						});
 					}
 				},(data) => {
 					console.error("请求失败，来自main_side.vue");
@@ -216,11 +225,19 @@
 				//判断评论框内容是否为空
 				let formatText = this.artical_md.$txt.formatText();
 				if( this.$store.state.userInfo === null ){
-					alert('请登录');
+					this.$msg({
+						showClose: true,
+						message: '不登录我很难做啊，老铁',
+						type: 'error'
+					});
 				}
 				else{
 					if( formatText.trim().length === 0 && !/img/.test(html) ){
-						alert('不能发送空');
+						this.$msg({
+							showClose: true,
+							message: '登陆了也不能这样啊，老铁',
+							type: 'error'
+						});
 					}else{
 						//带有html的文本 -->存储到数据库的
 						this.$http({
@@ -241,7 +258,11 @@
 								this.all_artical.forEach(function(el,i) {
 									(el.id === id) && el.comment_count++;
 								});
-								alert('评论成功');
+								this.$msg({
+									showClose: true,
+									message: '那你很棒哟，老铁',
+									type: 'success'
+								});
 								this.comment_data.unshift(data.data.data[0])
 								this.artical_md.$txt.html("<p><br></p>");
 							}

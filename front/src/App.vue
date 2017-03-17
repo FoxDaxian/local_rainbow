@@ -27,6 +27,7 @@
 			</keep-alive>
 			<router-view name="main_side"></router-view>
 		</div>
+		<input type="hidden" v-model="temp"><!-- cpmputed需要一个地方用到，所以加了这个隐藏的hidden -->
 	</div>
 </template>
 
@@ -34,7 +35,7 @@
 	export default {
 		name: 'app',
 		components: {
-			
+
 		},
 		data(){
 			return{
@@ -51,7 +52,6 @@
 			
 		},
 		mounted(){
-			
 			// 记住登陆状态
 			this.$http({
 				url:"http://www.tp.com/blog/home/index/autoLogin",
@@ -66,16 +66,22 @@
 				console.error("自动登录失败,来自app.vue");
 			});
 
-
 			// 获取全部的文章数据到vuex
 			this.$http({
 				url:"http://www.tp.com/blog/home/index/allArtical",
 				method:"get",
 			}).then( (data) => {
-				this.$store.commit("getArticalData",data.data.reverse());
+				if( {}.toString.call(data.data) === "[object Array]" ){
+					this.$store.commit("getArticalData",data.data.reverse());
+				}else{
+					console.error("获取失败");
+				}
 			},(data) => {
 				console.error("获取文章内容失败，来自main_side.vue");
 			});
+
+
+
 		}
 	}
 </script>

@@ -190,10 +190,18 @@
 				formatText = markdown_obj.$txt.formatText();
 
 				if( this.$store.state.userInfo === null ){
-					alert('请登录');
+					this.$msg({
+						showClose: true,
+						message: '不登录我很难做啊，老铁',
+						type: 'error'
+					});
 				}else{
 					if( formatText.trim().length === 0 && !/img/.test(html) ){
-						alert('不能发送空');
+						this.$msg({
+							showClose: true,
+							message: '登陆了也不能这样啊，老铁',
+							type: 'error'
+						});
 					}else{
 						
 						//带有html的文本 -->存储到数据库的
@@ -229,7 +237,11 @@
 								}
 								immidiately_show(this.treeData);
 								markdown_obj.$txt.html("<p><br></p>");
-								alert('回复成功');
+								this.$msg({
+									showClose: true,
+									message: '那你很棒哟，老铁',
+									type: 'success'
+								});
 							}
 							if( data.data.res === 2 ){
 								console.error("插入数据库出错，来自articalDetail.vue");
@@ -258,7 +270,7 @@
 							target.deleteData(2,1);
 							target.insertData (2,data.data.count);
 						}else{
-							console.log("失败");
+							console.error("失败");
 						}
 					},(data) => {
 						console.error("http连接出错，来自comment_recursion.vue");
@@ -276,7 +288,7 @@
 							target.deleteData(2,1);
 							target.insertData (2,data.data.count);
 						}else{
-							console.log("失败");
+							console.error("失败");
 						}
 					},(data) => {
 						console.error("http连接出错，来自comment_recursion.vue");

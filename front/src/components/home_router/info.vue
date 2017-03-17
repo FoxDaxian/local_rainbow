@@ -203,7 +203,11 @@
 							name:value
 						});
 					}else if( data.data.res === 2 ){
-						alert('系统未检测到修改');
+						this.$msg({
+							showClose: true,
+							message: '老铁，你改改在保存',
+							type: 'error'
+						});
 						this[to_change] || (this[to_change] = false);
 					}else{
 						this[to_change] = "失败";

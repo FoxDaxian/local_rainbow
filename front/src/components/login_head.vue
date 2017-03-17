@@ -119,7 +119,7 @@
 						transition:0.3s;
 						-webkit-transition:0.3s;
 						position: absolute;
-						z-index: 1111111111;
+						z-index: 1111;
 						top: 50%;
 						left: 50%;
 						box-shadow: 0 0 5px #c1c1c1;
@@ -260,22 +260,36 @@
 		},
 		methods:{
 			log_out(){
-				if( !confirm("确认退么？") ){
-					return false;
-				}
-				this.$store.commit("log_out");
-				this.$http({
-					url:"http://www.tp.com/blog/home/index/log_out",
-					method:"get"
-				}).then( ( data ) => {
-					if( data.data.res === 1 ){
-						alert('已退出');
-					}
-					if( data.data.res === 2 ){
-						console.error("来自服务器的错误,login_head.vue");
-					}
-				}, ( data ) => {
-					console.error("ajax请求错误，来自login_head.vue");
+
+				this.$confirm('别走，老铁，俺舍不得你', '亲爱的老铁：', {
+					confirmButtonText: '狠心离开',
+					cancelButtonText: '我爱你',
+					type: 'warning'
+				}).then(() => {
+					this.$store.commit("log_out");
+					this.$http({
+						url:"http://www.tp.com/blog/home/index/log_out",
+						method:"get"
+					}).then( ( data ) => {
+						if( data.data.res === 1 ){
+							this.$msg({
+								showClose: true,
+								message: '滚',
+								type: 'success'
+							});
+						}
+						if( data.data.res === 2 ){
+							console.error("来自服务器的错误,login_head.vue");
+						}
+					}, ( data ) => {
+						console.error("ajax请求错误，来自login_head.vue");
+					});
+				}).catch(() => {
+					this.$msg({
+						showClose: true,
+						message: '我也爱你',
+						type: 'success'
+					});     
 				});
 			},
 			show_options(e){

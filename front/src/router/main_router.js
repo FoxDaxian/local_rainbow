@@ -55,7 +55,7 @@ let config = {
 			default:home
 		},
 		children:[{
-			path:"",
+			path:"/",
 			components:{
 				tab:home_tab,
 				main:home_info
@@ -92,12 +92,22 @@ let config = {
 		}
 	}
 };
-
+import store_obj from '../vuex/main_vuex.js';
+let store = store_obj.store;
 
 let beforeEach = (to,from,next) => {
 	var title = to.name || "Rainbow blog";
 	document.title = title;
-	next();
+	if( store.state.userInfo === null && /\/home/.test(to.path) ){
+		next({
+			path:"/login",
+			query:{
+				back:to.path
+			}
+		});
+	}else{
+		next();
+	}
 };
 
 let afterEach = () => {
