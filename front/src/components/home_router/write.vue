@@ -26,7 +26,7 @@
 			box-sizing: border-box;
 			-moz-box-sizing: border-box;
 			.title{
-				height: 5vh;
+				height: 7vh;
 				font-size: 40px;
 				border:none;
 				outline: none;
@@ -37,7 +37,7 @@
 			}
 			#write_markdown{
 				height: 64vh;
-				min-height: 390px;
+				min-height: 200px;
 				padding: 10px;
 				font-size: 30px;
 			}

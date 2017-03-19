@@ -301,6 +301,13 @@
 			};
 		},
 		methods:{
+			enter_todo(e){
+				let ev = e || window.event;
+				if( ev.keyCode === 13 ){
+					this.onoff && this.loginFn();
+					this.onoff ||this.registerFn();
+				}
+			},
 			change_onoff(){
 				this.onoff = !this.onoff;
 			},
@@ -317,22 +324,10 @@
 				}).then( (data) => {
 					if( data.data.res === 1 ){
 						if( this.back_path !== undefined ){
-							this.$http({
-								url:"http://www.tp.com/blog/home/index/autoLogin",
-								method:"get",
-							}).then( (data) => {
-								if( data.data.res === 0 ){
-									this.$store.commit("changeUserInfo",undefined);
-								}else {
-									this.$store.commit("changeUserInfo",data.data.res[0]);
-									this.$router.push(this.back_path);
-								}
-							},(data) => {
-								console.error("自动登录失败,来自app.vue");
-							});
+							//记录的用户在未登录状态下访问的页面
+							this.$router.push(this.back_path);
 						}else{
 							this.$router.push("/");
-							// location.href = "http://localhost:8080"
 						}
 					}
 					if( data.data.res === 4 ){
@@ -439,8 +434,22 @@
 				showerror();
 			},
 			backHome(){
-				//vue-reouter的编程式路由，还是蛮好用的，七十就是利用的JS的history，稳稳当当弄完了自己的东西，开始干
+				//vue-reouter的编程式路由，还是蛮好用的，其实就是利用的JS的history，稳稳当当弄完了自己的东西，开始干
 				this.$router.push("/");
+			},
+			rm_event(el, event, fn) {
+				if ( window.removeEventListener ) {   
+					el.removeEventListener(event, fn);   
+				}else{   
+					el.detachEvent("on" + event, fn);   
+				}   
+			},
+			add_event(el, event, fn){
+				if ( window.attachEvent ){
+					el.attachEvent("on" + event, fn);
+				}else{
+					el.addEventListener(event, fn);
+				}
 			}
 		},
 		watch:{
@@ -496,9 +505,14 @@
 						return "danger";
 					}
 				}
-			}
+			},
+		},
+		beforeDestroy(){
+			this.rm_event(window,"keyup",this.enter_todo);
 		},
 		mounted(){
+			this.add_event(window,"keyup",this.enter_todo);
+
 			this.$refs.ref1.focus();
 			for( let item in this.$refs ){
 				this.changebg_arr.forEach((el,i) => {
@@ -522,7 +536,7 @@
 					}
 				}
 			}
-			
+
 		},
 	};
 </script>

@@ -6,6 +6,9 @@ const detail = resolve => require(['../components/articalRouter/articalDetail.vu
 //我的主页
 const home = resolve => require(['../components/home_router/home.vue'], resolve);
 
+//页面404
+const not_found = resolve => require(['../components/not_found.vue'], resolve);
+
 //页面的主体
 const login_head = resolve => require(['../components/login_head.vue'], resolve);
 const title_side = resolve => require(['../components/title_side.vue'], resolve);
@@ -83,6 +86,12 @@ let config = {
 			},
 			name:"编辑文章",
 		}]
+	},{ 
+		path: '/notfound',
+		components: {
+			default:not_found,
+		},
+		name:"404",
 	}],
 	scrollBehavior (to, from, savedPosition) {
 		if (savedPosition) {
@@ -92,22 +101,60 @@ let config = {
 		}
 	}
 };
+
+
+
+import v from "../vue-resource/main_resource.js";
+
+//为了在beforeEach中使用
 import store_obj from '../vuex/main_vuex.js';
 let store = store_obj.store;
 
 let beforeEach = (to,from,next) => {
+	//访问没有的页面，转到404
+	if( to.matched.length === 0 ){
+		next("notfound");
+		return false;
+	}
 	var title = to.name || "Rainbow blog";
 	document.title = title;
-	if( store.state.userInfo === null && /\/home/.test(to.path) ){
-		next({
-			path:"/login",
-			query:{
-				back:to.path
+	//在这里记住用户七日登录信息
+	//用户未登录访问，在router里做
+	if( store.state.userInfo === null ){
+		v.$http({
+			url:"http://www.tp.com/blog/home/index/autoLogin",
+			method:"get",
+		}).then( (data) => {
+			if( data.data.res === 0 ){
+				store.commit("changeUserInfo",undefined);
+				if( /\/home/.test(to.path) ){
+					next({
+						path:"/login",
+						query:{
+							back:to.path
+						}
+					});
+				}else{
+					next();
+				}
+			}else {
+				store.commit("changeUserInfo",data.data.res[0]);
+				next();
 			}
+			
+		},(data) => {
+			console.error("自动登录失败,来自app.vue");
 		});
 	}else{
 		next();
 	}
+	
+
+
+
+
+
+	
 };
 
 let afterEach = () => {

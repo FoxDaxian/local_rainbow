@@ -8,7 +8,7 @@ var config = {
 		userInfo:null,//当前用户信息，不刷新、跳转的情况下都存在这了
 		articalData:[],
 		comment_data:null,//当前详细页面评论信息
-		all_md:{},//全部的markdown数组
+		all_md:{},//全部评论框的markdown数组
 		draft_data:null,//临时草稿箱
 	},
 	mutations: {
@@ -91,7 +91,9 @@ var config = {
 	}
 };
 
+
 let store = new Vuex.Store(config);
+
 export default {
 	store
 };
