@@ -206,7 +206,7 @@
 						
 						//带有html的文本 -->存储到数据库的
 						this.$http({
-							url:"http://www.tp.com/blog/home/index/send_comment",
+							url:this.url_root + "blog/home/index/send_comment",
 							method:"post",
 							body:{
 								//发送到数据库的评论
@@ -259,7 +259,7 @@
 				btn = ev.target;
 				if( item_data.can_star ){
 					this.$http({
-						url:"http://www.tp.com/blog/home/index/comment_down",
+						url:this.url_root + "blog/home/index/comment_down",
 						method:"post",
 						body:{
 							comment_id:item_data.id
@@ -277,7 +277,7 @@
 					});
 				}else{
 					this.$http({
-						url:"http://www.tp.com/blog/home/index/comment_up",
+						url:this.url_root + "blog/home/index/comment_up",
 						method:"post",
 						body:{
 							comment_id:item_data.id

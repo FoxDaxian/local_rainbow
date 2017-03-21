@@ -284,7 +284,7 @@
 					type: 'warning'
 				}).then(() => {
 					this.$http({
-						url:"http://www.tp.com/blog/home/index/delete_artical",
+						url:this.url_root + "blog/home/index/delete_artical",
 						method:"post",
 						body:{
 							artical_id:id,

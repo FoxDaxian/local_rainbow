@@ -49,7 +49,12 @@ Vue.prototype.escape2Html = (str) =>{//反转义html转义符
 	return str.replace(/&(lt|gt|nbsp|amp|quot);/ig,function(all,t){
 		return arrEntities[t];
 	});
-},
+};
+
+
+//引入不同环境下的ajax请求地址
+import url_root from "./util/url_root.js";
+Vue.prototype.url_root = url_root;
 
 /* eslint-disable no-new */
 new Vue({

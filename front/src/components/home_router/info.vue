@@ -188,7 +188,7 @@
 			},
 			ajax(key,value,to_change){
 				this.$http({
-					url:"http://www.tp.com/blog/home/index/set_user_info",
+					url:this.url_root + "blog/home/index/set_user_info",
 					method:"post",
 					body:{
 						id:this.user_data.id,

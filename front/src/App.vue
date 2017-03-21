@@ -51,7 +51,7 @@
 		mounted(){
 			// 获取全部的文章数据到vuex
 			this.$http({
-				url:"http://www.tp.com/blog/home/index/allArtical",
+				url:this.url_root + "blog/home/index/allArtical",
 				method:"get",
 			}).then( (data) => {
 				if( {}.toString.call(data.data) === "[object Array]" ){

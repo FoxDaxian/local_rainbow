@@ -164,7 +164,7 @@
 				let ev = e || window.event;
 				ev.stopPropagation();
 				this.$http({
-					url:"http://www.tp.com/blog/home/index/toUp",
+					url:this.url_root + "blog/home/index/toUp",
 					method:"post",
 					body:{
 						id:id
@@ -194,7 +194,7 @@
 				ev.stopPropagation();
 
 				this.$http({
-					url:"http://www.tp.com/blog/home/index/toDown",
+					url:this.url_root + "blog/home/index/toDown",
 					method:"post",
 					body:{
 						id:id
@@ -241,7 +241,7 @@
 					}else{
 						//带有html的文本 -->存储到数据库的
 						this.$http({
-							url:"http://www.tp.com/blog/home/index/send_comment",
+							url:this.url_root + "blog/home/index/send_comment",
 							method:"post",
 							body:{
 								//发送到数据库的评论
@@ -290,7 +290,7 @@
 			//请求评论方法
 			let getComment_fn = () => {
 				this.$http({
-					url:"http://www.tp.com/blog/home/index/getComment",
+					url:this.url_root + "blog/home/index/getComment",
 					method:"post",
 					body:{
 						artical_id:this.detail_data.id
@@ -331,7 +331,7 @@
 			}else{
 				// 获取详细数据的
 				this.$http({
-					url:"http://www.tp.com/blog/home/index/allArtical",
+					url:this.url_root + "blog/home/index/allArtical",
 					method:"get",
 				}).then( (data) => {
 					data.data.reverse();

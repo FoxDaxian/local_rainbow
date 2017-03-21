@@ -92,7 +92,7 @@
 				tit = this.artical_title,
 				cont = this.markdown.$txt.html();
 				this.$http({
-					url:"http://www.tp.com/blog/home/index/save_modify",
+					url:this.url_root + "blog/home/index/save_modify",
 					method:"post",
 					body:{
 						artical_id:art_id,

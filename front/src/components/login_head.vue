@@ -268,7 +268,7 @@
 				}).then(() => {
 					this.$store.commit("log_out");
 					this.$http({
-						url:"http://www.tp.com/blog/home/index/log_out",
+						url:this.url_root + "blog/home/index/log_out",
 						method:"get"
 					}).then( ( data ) => {
 						if( data.data.res === 1 ){

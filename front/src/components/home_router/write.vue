@@ -132,7 +132,7 @@
 				}else{
 					if( this.artical_title.trim().length !== 0 ){
 						this.$http({
-							url:"http://www.tp.com/blog/home/index/save_draft",
+							url:this.url_root + "blog/home/index/save_draft",
 							method:"post",
 							body:{
 								id:  this.user_data.id,
@@ -192,7 +192,7 @@
 						}).then(() => {
 							let temp_time = new Date().getTime();
 							this.$http({
-								url:"http://www.tp.com/blog/home/index/send_artical",
+								url:this.url_root + "blog/home/index/send_artical",
 								method:"post",
 								body:{
 									id:this.user_data.id,
@@ -276,7 +276,7 @@
 			
 			// 啥都不用了，第一次进来，追加内容就好，之后又keep-alive，所以不会丢失草稿内容
 			this.$http({
-				url:"http://www.tp.com/blog/home/index/get_draft",
+				url:this.url_root + "blog/home/index/get_draft",
 				method:"post",
 				body:{
 					id:this.user_data.id,

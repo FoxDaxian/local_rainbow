@@ -313,7 +313,7 @@
 			},
 			loginFn(){
 				this.$http({
-					url:"http://www.tp.com/blog/home/index/login",
+					url:this.url_root + "blog/home/index/login",
 					method:"post",
 					body:{
 						acc:this.login_acc,
@@ -362,7 +362,7 @@
 			registerFn(){
 				var post = () => {
 					this.$http({
-						url:"http://www.tp.com/blog/home/index/register",
+						url:this.url_root + "blog/home/index/register",
 						method:"post",
 						body:{
 							username:this.regis_un,

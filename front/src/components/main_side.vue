@@ -127,7 +127,7 @@
 			},
 			routerFn(item,index,id){
 				this.$http({
-					url:"http://www.tp.com/blog/home/index/increamentLook",
+					url:this.url_root + "blog/home/index/increamentLook",
 					method:"post",
 					body:{
 						id:id
@@ -154,7 +154,7 @@
 				ev.stopPropagation();
 
 				this.$http({
-					url:"http://www.tp.com/blog/home/index/toUp",
+					url:this.url_root + "blog/home/index/toUp",
 					method:"post",
 					body:{
 						id:id
@@ -175,7 +175,7 @@
 				ev.stopPropagation();
 
 				this.$http({
-					url:"http://www.tp.com/blog/home/index/toDown",
+					url:this.url_root + "blog/home/index/toDown",
 					method:"post",
 					body:{
 						id:id

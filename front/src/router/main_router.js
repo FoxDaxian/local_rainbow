@@ -105,10 +105,13 @@ let config = {
 
 
 import v from "../vue-resource/main_resource.js";
+import url_root from "../util/url_root.js";
 
 //为了在beforeEach中使用
 import store_obj from '../vuex/main_vuex.js';
 let store = store_obj.store;
+
+
 
 let beforeEach = (to,from,next) => {
 	//访问没有的页面，转到404
@@ -122,7 +125,7 @@ let beforeEach = (to,from,next) => {
 	//用户未登录访问，在router里做
 	if( store.state.userInfo === null ){
 		v.$http({
-			url:"http://www.tp.com/blog/home/index/autoLogin",
+			url:url_root + "blog/home/index/autoLogin",
 			method:"get",
 		}).then( (data) => {
 			if( data.data.res === 0 ){
