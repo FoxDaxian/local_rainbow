@@ -56,6 +56,13 @@ Vue.prototype.escape2Html = (str) =>{//反转义html转义符
 import url_root from "./util/url_root.js";
 Vue.prototype.url_root = url_root;
 
+//生产环境取消提示啥的
+if( process.env.NODE_ENV !== "development" ){
+	Vue.config.silent = false;
+	Vue.config.productionTip = false;
+}
+
+
 /* eslint-disable no-new */
 new Vue({
 	el: '#app',
