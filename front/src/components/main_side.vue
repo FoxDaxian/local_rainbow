@@ -1,5 +1,4 @@
 <style lang="scss" scoped>
-	@import "../../static/seven_color.scss";
 	.main_wrap{
 		float: right;
 		width: 710px;

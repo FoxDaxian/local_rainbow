@@ -1,5 +1,4 @@
 <style lang="scss" scoped>
-	@import "../../static/seven_color.scss";
 	.head_wrap{
 		height: 50px;
 		position: relative;

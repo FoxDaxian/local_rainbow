@@ -37,7 +37,8 @@ import "wangeditor";
 wangEditor.config.printLog = false;
 
 
-
+//引入七彩css
+import "../static/seven_color.scss";
 
 //引入初始化css
 import "../static/reset.css";
