@@ -12,7 +12,7 @@ return array(
 
 	'MAIL_ADDRESS'=>'15122160991@163.com', // 邮箱地址    
 	'MAIL_LOGINNAME'=>'15122160991@163.com', // 邮箱登录帐号  
-	'MAIL_PASSWORD'=>'a945039036',
+	'MAIL_PASSWORD'=>'axxxxxxxx6',
 	'MAIL_SMTP'=>'smtp.163.com', // 邮箱SMTP服务器  
 	'SHOW_PAGE_TRACE'=>true,  
 
