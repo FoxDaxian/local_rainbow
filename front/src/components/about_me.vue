@@ -3,7 +3,7 @@
 		width: 1024px;
 		margin:0 auto;
 		.img_info{
-			margin-top: 50px;
+			margin-top: 20px;
 			overflow: hidden;
 			position: relative;
 			>div{
@@ -84,6 +84,50 @@
 				font-size: 30px;
 			}
 		}
+		.person_skill{
+			margin-top:50px;
+			fieldset{
+				padding: 0 30px 30px;
+				width: 100%;
+				legend{
+					text-align: center;
+					font-size: 20px;
+				}
+				.common_ball{
+					margin-top: 20px;
+					overflow: hidden;
+					height: 20px;
+					div:nth-of-type(1){
+						float: left;
+						font-size: 20px;
+					}
+					div:nth-of-type(2){
+						float: right;
+						width: 800px;
+						height: 10px;
+						border-radius: 14px;
+						border:1px solid #ececec;
+						background-color: rgba(0,0,0,0.1);
+						position: relative;
+						top: 50%;
+						margin-top: -5px;
+						margin-right: 100px;
+						&:before{
+							content:attr(data-skilled);
+							font-size: 20px;
+							position: absolute;
+							right: -50px;
+							top: -6px;
+						}
+						div{
+							height: 100%;
+							background-color: greenyellow;
+							border-radius: 14px;
+						}
+					}
+				}
+			}
+		}
 	}
 </style>
 
@@ -107,10 +151,10 @@
 				</div>
 				<div class="right">
 					<div class="age">
-						<span><i class="icon iconfont icon-nianling"></i></span><span>24</span>
+						<span><i class="icon iconfont icon-nianling"></i></span><span>{{(new Date()).getFullYear() - 1993}}</span>
 					</div>
 					<div class="phone">
-						<span><i class="icon iconfont icon-dianhua"></i></span><span>15122160991</span>
+						<span><i class="icon iconfont icon-dianhua"></i></span><span>151221609X1</span>
 					</div>
 					<div class="email">
 						<span><i class="icon iconfont icon-Email"></i></span><span>945039036@qq.com</span>
@@ -125,7 +169,15 @@
 			<p>暂时就这些了...</p>
 		</div>
 		<div class="person_skill">
-			个人技能专栏，用那个传奇（中文意思像）的属性写
+			<fieldset>
+				<legend>个人技能概述:</legend>
+				<div class="common_ball" v-for="item in skilled">
+					<div class="name" v-text="item.name"></div>
+					<div class="ball" :data-skilled="item.value">
+						<div class="color_ball" :style="{width:item.value}"></div>
+					</div>
+				</div>
+			</fieldset>
 		</div>
 	</div>
 </template>
@@ -139,11 +191,38 @@
 
 		data () {
 			return {
-				
+				skilled:[{
+					name:"vue",
+					value:"75%"
+				},{
+					name:"react",
+					value:"60%"
+				},{
+					name:"webpack",
+					value:"55%"
+				},{
+					name:"原生js",
+					value:"85%"
+				},{
+					name:"css",
+					value:"75%"
+				},{
+					name:"php",
+					value:"50%"
+				},{
+					name:"tp",
+					value:"40%"
+				},{
+					name:"mysql",
+					value:"40%"
+				},{
+					name:"http",
+					value:"60%"
+				}]
 			};
 		},
 		mounted(){
-			
+
 		}
 	};
 </script>

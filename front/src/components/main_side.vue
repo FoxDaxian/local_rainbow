@@ -62,13 +62,50 @@
 				}
 			}
 		}
+		.page{
+			position: relative;			
+			>div{
+				font-size: 18px;
+				padding:4px 16px;
+			}
+			.prev,.next{
+				top: 0;
+				position: absolute;
+				border-radius: 8px;
+				border:1px solid #a0a0a0;
+				color:#a0a0a0;
+				cursor: pointer;
+				&:hover{
+					border-color:#000;
+					color:#000;
+				}
+			}
+			.prev{
+				left: 0px;
+			}
+			.next{
+				right: 0px;	
+			}
+			.pageNow{
+				text-align: center;
+				span{
+					font-weight: bold;
+					font-style:italic;
+				}
+			}
+			.notActive{
+				border-color:#ececec!important;
+				color:#ececec!important;
+				cursor: default;
+			}
+		}
 	}
 </style>
 
 <template>
 	<div class="main_wrap">
 		<template v-if="allDataArr !== false">
-			<div class="artical_box bs7" v-for="(item,index) in allDataArr" @mouseleave="changeCss" @click="routerFn(item,index,item.id)">
+			<div class="artical_box bs7" v-for="(item,index) in allDataArr.slice(8 * pageIndex,8 * (pageIndex + 1))" @mouseleave="changeCss" @click="routerFn(item,index,item.id)">
 				<div class="title" v-text="item.title"></div>
 				<div class="content">
 					{{escape2Html(item.content).replace(/(\<.+?\>)/g,"").length > 150 ? escape2Html(item.content).replace(/(\<.+?\>)/g,"").substr(0,150) + "..." : escape2Html(item.content).replace(/(\<.+?\>)/g,"") }}
@@ -88,6 +125,11 @@
 			</div>
 		</template>
 		<div v-else>获取文章失败，请重试</div>
+		<div class="page">
+			<div class="prev" :class="{'notActive':pageIndex === 0}" @click="prevFn">上一页</div>
+			<div class="pageNow">当前第 <span>{{pageIndex + 1}}</span> 页</div>
+			<div class="next" :class="{'notActive':pageIndex === max - 1}" @click="nextFn">下一页</div>
+		</div>
 	</div>
 </template>	
 
@@ -98,7 +140,7 @@
 
 		data () {
 			return {
-				
+				pageIndex:0
 			};
 		},
 		methods:{
@@ -189,15 +231,31 @@
 				},(data) => {
 					console.error("请求失败，来自main_side.vue");
 				});
-			}
+			},
+			prevFn(){
+				this.pageIndex !== 0 && window.scrollTo(0,0);
+				this.pageIndex--;
+				if( this.pageIndex <= 0){
+					this.pageIndex = 0;
+				}
+			},
+			nextFn(){
+				this.pageIndex !== (this.max -1) && window.scrollTo(0,0);
+				this.pageIndex++;
+				if( this.pageIndex >= this.max - 1){
+					this.pageIndex = this.max - 1;
+				}
+			},
 		},
 		computed:{
 			allDataArr(){
+				//获取最大page
+				this.max = Math.ceil(this.$store.state.articalData.length / 8);
 				return this.$store.state.articalData;
 			}
 		},
 		mounted(){
-			
+
 		},
 
 	};
