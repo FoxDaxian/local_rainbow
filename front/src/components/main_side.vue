@@ -180,7 +180,7 @@
 						this.$router.push({ 
 							path: 'detail', 
 							query: { 
-								detail: index,
+								detail: index + this.pageIndex * 8,
 							},
 						})
 					}else{

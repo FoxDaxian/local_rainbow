@@ -9,34 +9,27 @@ const login = resolve => require(['../components/login_head_router/loginPage.vue
 const detail = resolve => require(['../components/articalRouter/articalDetail.vue'], resolve);
 
 //我的主页
-// const home = r => require.ensure([], () => r(require('../components/home_router/home.vue')), 'home')
 const home = resolve => require(['../components/home_router/home.vue'], resolve);
 
 //页面404
-// const not_found = r => require.ensure([], () => r(require('../components/not_found.vue')), 'not_found')
 const not_found = resolve => require(['../components/not_found.vue'], resolve);
 
+//目标
+const my_goal = resolve => require(['../components/myGoal.vue'], resolve);
+
 //页面的主体
-// const login_head = r => require.ensure([], () => r(require('../components/login_head.vue')), 'login_head')
 const login_head = resolve => require(['../components/login_head.vue'], resolve);
-// const title_side = r => require.ensure([], () => r(require('../components/title_side.vue')), 'title_side')
 const title_side = resolve => require(['../components/title_side.vue'], resolve);
-// const main_side = r => require.ensure([], () => r(require('../components/main_side.vue')), 'main_side')
 const main_side = resolve => require(['../components/main_side.vue'], resolve);
-// const about_me = r => require.ensure([], () => r(require('../components/about_me.vue')), 'about_me')
 const about_me = resolve => require(['../components/about_me.vue'], resolve);
 
 //我的主页路由组件
-// const home_info = r => require.ensure([], () => r(require('../components/home_router/info.vue')), 'home_info')
 const home_info = resolve => require(['../components/home_router/info.vue'], resolve);
-// const home_tab = r => require.ensure([], () => r(require('../components/home_router/home_tab.vue')), 'home_tab')
 const home_tab = resolve => require(['../components/home_router/home_tab.vue'], resolve);
-// const my_artical = r => require.ensure([], () => r(require('../components/home_router/my_artical.vue')), 'my_artical')
 const my_artical = resolve => require(['../components/home_router/my_artical.vue'], resolve);
-// const write = r => require.ensure([], () => r(require('../components/home_router/write.vue')), 'write')
 const write = resolve => require(['../components/home_router/write.vue'], resolve);
-// const edit_artical = r => require.ensure([], () => r(require('../components/home_router/edit_artical.vue')), 'edit_artical')
 const edit_artical = resolve => require(['../components/home_router/edit_artical.vue'], resolve);
+
 
 
 let config = {
@@ -108,6 +101,12 @@ let config = {
 			default:not_found,
 		},
 		name:"404",
+	},{
+		path:"/my_goal",
+		components:{
+			default:my_goal
+		},
+		name:`${(new Date()).getFullYear()}年目标`
 	}],
 	scrollBehavior (to, from, savedPosition) {
 		if (savedPosition) {

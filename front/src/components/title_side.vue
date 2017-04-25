@@ -192,7 +192,7 @@
 			</ul>
 		</div>
 		<div class="my_goal">
-			<router-link to="#" class="likeA">我的{{year}}年目标</router-link>
+			<router-link to="/my_goal" class="likeA">我的{{year}}年目标</router-link>
 		</div>
 		<div class="time">
 			<embed src="http://chabudai.sakura.ne.jp/blogparts/honehoneclock/honehone_clock_wh.swf" type="">
